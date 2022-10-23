@@ -1,11 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:ui_design/screens/practice_1.dart';
+import 'package:ui_design/screens/practice_10.dart';
+import 'package:ui_design/screens/practice_11.dart';
+import 'package:ui_design/screens/practice_12.dart';
+import 'package:ui_design/screens/practice_13.dart';
+import 'package:ui_design/screens/practice_14.dart';
 import 'package:ui_design/screens/practice_2.dart';
 import 'package:ui_design/screens/practice_3.dart';
 import 'package:ui_design/screens/practice_4.dart';
 import 'package:ui_design/screens/practice_5.dart';
 import 'package:ui_design/screens/practice_6.dart';
 import 'package:ui_design/screens/practice_7.dart';
+import 'package:ui_design/screens/practice_8.dart';
+import 'package:ui_design/screens/practice_9.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +28,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Practice7(),
+      home: const Practice14(),
     );
   }
 }

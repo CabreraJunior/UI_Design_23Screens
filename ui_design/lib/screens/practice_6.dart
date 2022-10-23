@@ -9,7 +9,7 @@ class Practice6 extends StatelessWidget {
         backgroundColor: Colors.white,
         body: Center(
             child: OutlinedButton(
-                style: ElevatedButton.styleFrom(
+                style: OutlinedButton.styleFrom(
                     padding: const EdgeInsets.only(
                         top: 20, bottom: 20, left: 40, right: 40),
                     shape: RoundedRectangleBorder(

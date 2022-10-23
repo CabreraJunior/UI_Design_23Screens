@@ -9,7 +9,7 @@ class Practice5 extends StatelessWidget {
         backgroundColor: Colors.white,
         body: Center(
             child: TextButton(
-                style: ElevatedButton.styleFrom(
+                style: TextButton.styleFrom(
                     padding: const EdgeInsets.only(
                         top: 20, bottom: 20, left: 40, right: 40)),
                 onPressed: () {},
