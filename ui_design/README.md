@@ -4,13 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ![Practice 1](./ui_design/screenshots/practice1.png)
+- ![Practice 2](./ui_design/screenshots/practice2.png)
+- ![Practice 3](./ui_design/screenshots/practice3.png)
+- ![Practice 4](./ui_design/screenshots/practice4.png)
+- ![Practice 5](./ui_design/screenshots/practice5.png)
+- ![Practice 6](./ui_design/screenshots/practice6.png)
+- ![Practice 7](./ui_design/screenshots/practice7.png)
+- ![Practice 8](./ui_design/screenshots/practice8.png)
+- ![Practice 9](./ui_design/screenshots/practice9.png)
+- ![Practice 10](./ui_design/screenshots/practice10.png)
+- ![Practice 11](./ui_design/screenshots/practice11.png)
+- ![Practice 12](./ui_design/screenshots/practice12.png)
+- ![Practice 13](./ui_design/screenshots/practice13.png)
+- ![Practice 14](./ui_design/screenshots/practice14.png)
+- ![Practice 15](./ui_design/screenshots/practice15.png)
+- ![Practice 16](./ui_design/screenshots/practice16.png)
+- ![Practice 17](./ui_design/screenshots/practice17.png)
+- ![Practice 18](./ui_design/screenshots/practice18.png)

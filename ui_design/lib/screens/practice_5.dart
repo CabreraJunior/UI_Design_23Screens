@@ -15,7 +15,7 @@ class Practice5 extends StatelessWidget {
                 onPressed: () {},
                 child: const Text(
                   "Click Me",
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ))));
   }
 }

@@ -10,7 +10,7 @@ class Practice3 extends StatelessWidget {
       body: Center(
           child: CircleAvatar(
         backgroundImage: AssetImage("images/klk.jpg"),
-        radius: 50,
+        radius: 65,
       )),
     );
   }

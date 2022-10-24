@@ -11,8 +11,8 @@ class Practice2 extends StatelessWidget {
         child: Image.asset(
           "images/klk.jpg",
           fit: BoxFit.contain,
-          height: 90,
-          width: 90,
+          height: 120,
+          width: 120,
         ),
       ),
     );

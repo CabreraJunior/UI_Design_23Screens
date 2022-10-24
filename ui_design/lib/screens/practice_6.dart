@@ -11,13 +11,13 @@ class Practice6 extends StatelessWidget {
             child: OutlinedButton(
                 style: OutlinedButton.styleFrom(
                     padding: const EdgeInsets.only(
-                        top: 20, bottom: 20, left: 40, right: 40),
+                        top: 20, bottom: 20, left: 70, right: 70),
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(0))),
                 onPressed: () {},
                 child: const Text(
                   "Click Me",
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ))));
   }
 }

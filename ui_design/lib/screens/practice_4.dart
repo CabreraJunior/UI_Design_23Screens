@@ -12,13 +12,13 @@ class Practice4 extends StatelessWidget {
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.black,
                   padding: const EdgeInsets.only(
-                      top: 20, bottom: 20, left: 40, right: 40),
+                      top: 20, bottom: 20, left: 70, right: 70),
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(0)),
                 ),
                 onPressed: () {},
                 child: const Text("Click Me",
                     style: TextStyle(
-                        fontSize: 14, fontWeight: FontWeight.bold)))));
+                        fontSize: 18, fontWeight: FontWeight.bold)))));
   }
 }

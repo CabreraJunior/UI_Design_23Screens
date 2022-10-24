@@ -9,7 +9,8 @@ class Practice7 extends StatelessWidget {
       backgroundColor: Colors.white,
       body: Center(
           child: IconButton(
-              onPressed: () {}, icon: const Icon(Icons.favorite_border))),
+              onPressed: () {},
+              icon: const Icon(Icons.favorite_border, size: 40))),
     );
   }
 }
