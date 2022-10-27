@@ -61,7 +61,14 @@ class Practice17 extends StatelessWidget {
                     )
                   ]),
                 ),
-              )
+              ),
+              Align(
+                alignment: Alignment.topRight,
+                child: IconButton(
+                    onPressed: () {},
+                    icon: const Icon(Icons.favorite_border),
+                    iconSize: 20),
+              ),
             ],
           ),
         ),

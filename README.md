@@ -22,3 +22,8 @@ UI Desing Screens Exercise - Flutter Course ITK
 - [Practice 16](./ui_design/screenshots/practice16.png)
 - [Practice 17](./ui_design/screenshots/practice17.png)
 - [Practice 18](./ui_design/screenshots/practice18.png)
+- [Practice 19](./ui_design/screenshots/practice19.png)
+- [Practice 20](./ui_design/screenshots/practice20.png)
+- [Practice 21](./ui_design/screenshots/practice21.png)
+- [Practice 22](./ui_design/screenshots/practice22.png)
+- [Practice 23](./ui_design/screenshots/practice23.png)
