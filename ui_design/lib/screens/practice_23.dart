@@ -65,32 +65,24 @@ class Practice23 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [
-          Container(
-            color: Colors.blue,
-            height: 50,
-            margin: const EdgeInsets.only(bottom: 10),
-          ),
-          Expanded(
-            child: GridView.builder(
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
-                crossAxisSpacing: 1,
-                mainAxisSpacing: 1,
-              ),
-              itemCount: products.length,
-              itemBuilder: ((context, index) {
-                return Custom3(
-                  name: products[index]["name"],
-                  price: products[index]["price"],
-                  description: products[index]["description"],
-                  image: products[index]["image"],
-                );
-              }),
-            ),
-          ),
-        ],
+      appBar: AppBar(
+        elevation: 0,
+      ),
+      body: GridView.builder(
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+          crossAxisCount: 2,
+          crossAxisSpacing: 1,
+          mainAxisSpacing: 1,
+        ),
+        itemCount: products.length,
+        itemBuilder: ((context, index) {
+          return Custom3(
+            name: products[index]["name"],
+            price: products[index]["price"],
+            description: products[index]["description"],
+            image: products[index]["image"],
+          );
+        }),
       ),
     );
   }

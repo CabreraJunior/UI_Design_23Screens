@@ -7,18 +7,14 @@ class Practice22 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [
-          Container(color: Colors.blue, height: 60),
-          Expanded(
-            child: ListView.builder(
-              itemCount: 5,
-              itemBuilder: ((context, index) {
-                return const Custom2();
-              }),
-            ),
-          ),
-        ],
+      appBar: AppBar(
+        elevation: 0,
+      ),
+      body: ListView.builder(
+        itemCount: 5,
+        itemBuilder: ((context, index) {
+          return const Custom2();
+        }),
       ),
     );
   }

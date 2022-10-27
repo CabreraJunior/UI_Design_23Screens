@@ -65,13 +65,11 @@ class Practice21 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        elevation: 0,
+      ),
       body: Column(
         children: [
-          Container(
-            color: Colors.blue,
-            height: 50,
-            margin: const EdgeInsets.only(bottom: 10),
-          ),
           SizedBox(
             height: 38,
             child: ListView.builder(
